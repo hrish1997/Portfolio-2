@@ -156,11 +156,12 @@
     text-decoration: none;
     color: #6c757d;
     font-weight: 500;
+    padding: 10px 40px;
   }
   #intro > button {
     margin-top: 30px;
     font-size: 1.8vw;
-    padding: 10px 40px;
+
     border-radius: 5px;
   }
 
@@ -720,11 +721,11 @@
     text-decoration: none;
     color: #6c757d;
     font-weight: 500;
+    padding: 10px 40px;
   }
   #intro > button {
     margin-top: 30px;
     font-size: 2vw;
-    padding: 10px 40px;
     border-radius: 5px;
   }
 
@@ -1091,12 +1092,12 @@
   #intro > p > a {
     text-decoration: none;
     color: #6c757d;
+    padding: 10px 40px;
     font-weight: 500;
   }
   #intro > button {
     margin-top: 30px;
     font-size: 2vw;
-    padding: 10px 40px;
     border-radius: 5px;
   }
 
